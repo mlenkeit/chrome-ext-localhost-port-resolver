@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "localhost-port-resolver",
-  "description": "Enter port number (e.g. 3000) to redirected to localhost:3000",
+  "description": "Enter port number (e.g. 3000) to be redirected to localhost:3000",
   "version": "1.0",
   "background": {
     "scripts": ["background.js"]
